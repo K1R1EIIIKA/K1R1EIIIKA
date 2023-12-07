@@ -19,8 +19,8 @@ I've been working on the backend in Django for about 2 years and developing game
 | Jams | Solo |
 |-|-|
 |[Chicken Race](https://github.com/K1R1EIIIKA/startgame-2)|[FPS Shooter](https://github.com/K1R1EIIIKA/FPS-shooting-game)|
-|[Frucy Juicy](https://github.com/ermsonya/juicy)|[Kabanchik Game (only build)](https://github.com/K1R1EIIIKA/kabanchik-game)|
 |[CyberGuardian](https://github.com/K1R1EIIIKA/start-game-game)|[FPS Test Zombie Shooter](https://github.com/K1R1EIIIKA/FPS-ZombieGenocide-Game)|
+|[Frucy Juicy](https://github.com/ermsonya/juicy)|[Kabanchik Game (only build)](https://github.com/K1R1EIIIKA/kabanchik-game)|
 |[Keyboard Chicken](https://github.com/K1R1EIIIKA/keyboard-chicken)|
 |[Cats & Dogs](https://github.com/K1R1EIIIKA/cats-and-dogs)|
 
