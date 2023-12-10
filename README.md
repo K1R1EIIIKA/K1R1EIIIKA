@@ -16,6 +16,7 @@ I've been working on the backend in Django for about 2 years and developing game
 |[Online Store](https://github.com/K1R1EIIIKA/Django-OnlineShop)|
 
 ### My general Unity projects
+#### **itch.io:** https://k1r1eiiika.itch.io/
 | Jams | Solo |
 |-|-|
 |[Chicken Race](https://github.com/K1R1EIIIKA/startgame-2)|[FPS Shooter](https://github.com/K1R1EIIIKA/FPS-shooting-game)|
