@@ -19,9 +19,10 @@ I've been working on the backend in Django for about 2 years and developing game
 #### **itch.io:** https://k1r1eiiika.itch.io/
 | Jams | Solo |
 |-|-|
-|[Chicken Race](https://github.com/K1R1EIIIKA/startgame-2)|[FPS Shooter](https://github.com/K1R1EIIIKA/FPS-shooting-game)|
-|[CyberGuardian](https://github.com/K1R1EIIIKA/start-game-game)|[FPS Test Zombie Shooter](https://github.com/K1R1EIIIKA/FPS-ZombieGenocide-Game)|
-|[Frucy Juicy](https://github.com/ermsonya/juicy)|[Kabanchik Game (only build)](https://github.com/K1R1EIIIKA/kabanchik-game)|
+|[Ratatouille](https://github.com/K1R1EIIIKA/Ratatouille)|[FPS Shooter](https://github.com/K1R1EIIIKA/FPS-shooting-game)|
+|[Chicken Race](https://github.com/K1R1EIIIKA/startgame-2)|[FPS Test Zombie Shooter](https://github.com/K1R1EIIIKA/FPS-ZombieGenocide-Game)|
+|[CyberGuardian](https://github.com/K1R1EIIIKA/start-game-game)|[Kabanchik Game (only build)](https://github.com/K1R1EIIIKA/kabanchik-game)|
+|[Frucy Juicy](https://github.com/ermsonya/juicy)|
 |[Keyboard Chicken](https://github.com/K1R1EIIIKA/keyboard-chicken)|
 |[Cats & Dogs](https://github.com/K1R1EIIIKA/cats-and-dogs)|
 
