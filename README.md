@@ -1,11 +1,11 @@
 # Hi there 👋, my name is Kirill
-### I'm a Python Django & Unity C# developer
-I've been working on the backend in Django for about 2 years and developing games in Unity for about a year.
+### I'm a Python, C# backend & Unity C# developer
+I've been working on the backend in Django for about 2 years, in ASP.NET Core about 6 months and developing games in Unity for about a year.
 
-**Skills:** Python / Django / REST / C# / Unity / SQL
+**Skills:** Python / Django / REST / C# / ASP.NET / Unity / SQL
 
 - 🔭 I’m currently working on various projects and diplomas 
-- 🌱 I’m currently learning Django, Unity C#, React.js 
+- 🌱 I’m currently learning Django, ASP.NET, GoLang, Unity C#, React.js 
 
 ### My general Django projects
 |Project|
