@@ -5,8 +5,9 @@ I've been working on the backend in Django for about 2 years, in ASP.NET Core ab
 **Skills:** Python / Django / REST / C# / ASP.NET / Unity / SQL
 
 - 🔭 I’m currently working on various projects and diplomas 
-- 🌱 I’m currently learning Django, ASP.NET, GoLang, Unity C#, React.js 
-
+- 🌱 I’m currently learning Django, ASP.NET, GoLang, Unity C#, React.js
+  
+----------
 ### My general Django projects
 |Project|
 |-|
@@ -27,6 +28,5 @@ I've been working on the backend in Django for about 2 years, in ASP.NET Core ab
 |[Cats & Dogs](https://github.com/K1R1EIIIKA/cats-and-dogs)|
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/K1R1EIIIKA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/K1R1EIIIKA)  
-
-
+-
 ![](https://komarev.com/ghpvc/?username=K1R1EIIIKA&color=blue)
