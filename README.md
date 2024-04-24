@@ -22,9 +22,9 @@ I've been working on the backend in Django for about 3 years, in ASP.NET Core ab
 | Jams | Solo |
 |-|-|
 |[Ratatouille](https://github.com/K1R1EIIIKA/Ratatouille)|[Test Task to Amaya Soft](https://github.com/K1R1EIIIKA/Amaya-TestTask)|
-|[Chicken Race](https://github.com/K1R1EIIIKA/startgame-2)|[RPG Visual Novel](https://github.com/K1R1EIIIKA/StartGameFinal)|
-|[CyberGuardian](https://github.com/K1R1EIIIKA/start-game-game)|[FPS Shooter](https://github.com/K1R1EIIIKA/FPS-shooting-game)|
-|[Frucy Juicy](https://github.com/ermsonya/juicy)|[FPS Test Zombie Shooter](https://github.com/K1R1EIIIKA/FPS-ZombieGenocide-Game)|
+|[Chicken Race](https://github.com/K1R1EIIIKA/startgame-2)|[Design Patterns Practice](https://github.com/K1R1EIIIKA/Unity-DesignPatterns)
+|[CyberGuardian](https://github.com/K1R1EIIIKA/start-game-game)|[RPG Visual Novel](https://github.com/K1R1EIIIKA/StartGameFinal)|
+|[Frucy Juicy](https://github.com/ermsonya/juicy)|[FPS Shooter](https://github.com/K1R1EIIIKA/FPS-shooting-game)|
 |[Keyboard Chicken](https://github.com/K1R1EIIIKA/keyboard-chicken)|[Kabanchik Game (only build)](https://github.com/K1R1EIIIKA/kabanchik-game)|
 |[Cats & Dogs](https://github.com/K1R1EIIIKA/cats-and-dogs)|
 
