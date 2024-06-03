@@ -11,7 +11,7 @@ I've been working on the backend in Django for about 3 years, in ASP.NET Core ab
 ### My general Backend Django & C# ASP.NET projects
 |Project|
 |-|
-|[DRF with React for my Unity game](https://github.com/K1R1EIIIKA/Cannon-Roguelike)|
+|[DRF with React for my Unity game](https://github.com/K1R1EIIIKA/Tankopocalypse-with-shop)|
 |[Blogicum](https://github.com/K1R1EIIIKA/Django-Blogicum)|
 |[Sanctuary Management](https://github.com/K1R1EIIIKA/sanctuary-management)|
 |[Vacancy Parser](https://github.com/K1R1EIIIKA/Django-VacancyParcer)|
@@ -23,7 +23,7 @@ I've been working on the backend in Django for about 3 years, in ASP.NET Core ab
 | Jams | Solo |
 |-|-|
 |[Ratatouille](https://github.com/K1R1EIIIKA/Ratatouille)|[Test Task to Amaya Soft](https://github.com/K1R1EIIIKA/Amaya-TestTask)|
-|[Chicken Race](https://github.com/K1R1EIIIKA/startgame-2)|[Roguelike with Backend & Authorization](https://github.com/K1R1EIIIKA/Unity-DesignPatterns)
+|[Chicken Race](https://github.com/K1R1EIIIKA/startgame-2)|[Roguelike with Backend & Authorization](https://github.com/K1R1EIIIKA/Tankopocalypse-with-shop)
 |[CyberGuardian](https://github.com/K1R1EIIIKA/start-game-game)|[Design Patterns Practice](https://github.com/K1R1EIIIKA/Unity-DesignPatterns)
 |[Frucy Juicy](https://github.com/ermsonya/juicy)|[RPG Visual Novel](https://github.com/K1R1EIIIKA/StartGameFinal)|
 |[Keyboard Chicken](https://github.com/K1R1EIIIKA/keyboard-chicken)|[FPS Shooter](https://github.com/K1R1EIIIKA/FPS-shooting-game)|
