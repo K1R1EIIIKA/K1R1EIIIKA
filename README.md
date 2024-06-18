@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Kirill
-### I'm a Python, C# backend & Unity C# developer
+### I'm a Unity C# & Python, C# backend developer
 I've been working on the backend in Django for about 3 years, in ASP.NET Core about 6 months and developing games in Unity for about a 2 years.
 
 **Skills:** Python / Django / REST / C# / ASP.NET / Unity / SQL
@@ -8,6 +8,17 @@ I've been working on the backend in Django for about 3 years, in ASP.NET Core ab
 - 🌱 I’m currently learning Django, ASP.NET, GoLang, Unity C#, React.js
   
 ----------
+### My general Unity projects
+#### **itch.io:** https://k1r1eiiika.itch.io/
+| Jams | Solo |
+|-|-|
+|[Snowed In](https://github.com/K1R1EIIIKA/Snowed-In)|[Test Task to Amaya Soft](https://github.com/K1R1EIIIKA/Amaya-TestTask)|
+|[Ratatouille](https://github.com/K1R1EIIIKA/Ratatouille)|[Arcade with Backend & Authorization](https://github.com/K1R1EIIIKA/Tankopocalypse-with-shop)
+|[Chicken Race](https://github.com/K1R1EIIIKA/startgame-2)|[Design Patterns Practice](https://github.com/K1R1EIIIKA/Unity-DesignPatterns)
+|[CyberGuardian](https://github.com/K1R1EIIIKA/start-game-game)|[RPG Visual Novel](https://github.com/K1R1EIIIKA/StartGameFinal)|
+|[Frucy Juicy](https://github.com/ermsonya/juicy)|[FPS Shooter](https://github.com/K1R1EIIIKA/FPS-shooting-game)|
+|[Keyboard Chicken](https://github.com/K1R1EIIIKA/keyboard-chicken)|[Kabanchik Game (only build)](https://github.com/K1R1EIIIKA/kabanchik-game)|
+
 ### My general Backend Django & C# ASP.NET projects
 |Project|
 |-|
@@ -17,17 +28,6 @@ I've been working on the backend in Django for about 3 years, in ASP.NET Core ab
 |[Vacancy Parser](https://github.com/K1R1EIIIKA/Django-VacancyParcer)|
 |[Posts](https://github.com/K1R1EIIIKA/Django-Test-Posts)|
 |[Online Store](https://github.com/K1R1EIIIKA/Django-OnlineShop)|
-
-### My general Unity projects
-#### **itch.io:** https://k1r1eiiika.itch.io/
-| Jams | Solo |
-|-|-|
-|[Ratatouille](https://github.com/K1R1EIIIKA/Ratatouille)|[Test Task to Amaya Soft](https://github.com/K1R1EIIIKA/Amaya-TestTask)|
-|[Chicken Race](https://github.com/K1R1EIIIKA/startgame-2)|[Roguelike with Backend & Authorization](https://github.com/K1R1EIIIKA/Tankopocalypse-with-shop)
-|[CyberGuardian](https://github.com/K1R1EIIIKA/start-game-game)|[Design Patterns Practice](https://github.com/K1R1EIIIKA/Unity-DesignPatterns)
-|[Frucy Juicy](https://github.com/ermsonya/juicy)|[RPG Visual Novel](https://github.com/K1R1EIIIKA/StartGameFinal)|
-|[Keyboard Chicken](https://github.com/K1R1EIIIKA/keyboard-chicken)|[FPS Shooter](https://github.com/K1R1EIIIKA/FPS-shooting-game)|
-|[Cats & Dogs](https://github.com/K1R1EIIIKA/cats-and-dogs)|[Kabanchik Game (only build)](https://github.com/K1R1EIIIKA/kabanchik-game)|
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/K1R1EIIIKA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/K1R1EIIIKA)  
 -
