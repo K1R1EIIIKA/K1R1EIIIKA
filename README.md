@@ -22,11 +22,11 @@ I've been working on the backend in Django for about 3 years, in ASP.NET Core ab
 ### My general Backend Django & C# ASP.NET projects
 |Project|
 |-|
+|[Backend for Unity Game](https://github.com/K1R1EIIIKA/Money-Drain-Saga)|
 |[DRF with React for my Unity game](https://github.com/K1R1EIIIKA/Tankopocalypse-with-shop)|
 |[Blogicum](https://github.com/K1R1EIIIKA/Django-Blogicum)|
 |[Sanctuary Management](https://github.com/K1R1EIIIKA/sanctuary-management)|
 |[Vacancy Parser](https://github.com/K1R1EIIIKA/Django-VacancyParcer)|
-|[Posts](https://github.com/K1R1EIIIKA/Django-Test-Posts)|
 |[Online Store](https://github.com/K1R1EIIIKA/Django-OnlineShop)|
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/K1R1EIIIKA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/K1R1EIIIKA)  
