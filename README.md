@@ -1,11 +1,11 @@
 # Hi there 👋, my name is Kirill
-### I'm a Unity C# & Python, C# backend developer
-I've been working on the backend in Django for about 3 years, in ASP.NET Core about 6 months and developing games in Unity for about a 2 years.
+### I'm a Unity C# & Python Backend Developer
+I've been working on the backend in Django for about 5 years and developing games in Unity for about a 4 years.
 
-**Skills:** Python / Django / REST / C# / ASP.NET / Unity / SQL
+**Skills:** Unity / Python / Django / REST / C# / ASP.NET / SQL
 
-- 🔭 I’m currently working on various projects and diplomas 
-- 🌱 I’m currently learning Django, ASP.NET, GoLang, Unity C#, React.js
+- 🔭 I'm currently working on [The Temple of Children game ](https://store.steampowered.com/app/2856440/Xram_Detej/)
+- 🌱 I’m currently learning Unity C#, Design Patterns, Django, GoLang, React.js
   
 ----------
 ### My general Unity projects
