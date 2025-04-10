@@ -4,7 +4,7 @@ I've been working on the backend in Django for about 5 years and developing game
 
 **Skills:** Unity / Python / Django / REST / C# / ASP.NET / SQL
 
-- 🔭 I'm currently working on [The Temple of Children game ](https://store.steampowered.com/app/2856440/Xram_Detej/)
+- 🩸 I'm currently working on [The Temple of Children game](https://store.steampowered.com/app/2856440/Xram_Detej/)
 - 🌱 I’m currently learning Unity C#, Design Patterns, Django, GoLang, React.js
   
 ----------
@@ -16,8 +16,6 @@ I've been working on the backend in Django for about 5 years and developing game
 |[Ratatouille](https://github.com/K1R1EIIIKA/Ratatouille)|[Arcade with Backend & Authorization](https://github.com/K1R1EIIIKA/Tankopocalypse-with-shop)
 |[Chicken Race](https://github.com/K1R1EIIIKA/startgame-2)|[Design Patterns Practice](https://github.com/K1R1EIIIKA/Unity-DesignPatterns)
 |[CyberGuardian](https://github.com/K1R1EIIIKA/start-game-game)|[RPG Visual Novel](https://github.com/K1R1EIIIKA/StartGameFinal)|
-|[Frucy Juicy](https://github.com/ermsonya/juicy)|[FPS Shooter](https://github.com/K1R1EIIIKA/FPS-shooting-game)|
-|[Keyboard Chicken](https://github.com/K1R1EIIIKA/keyboard-chicken)|[Kabanchik Game (only build)](https://github.com/K1R1EIIIKA/kabanchik-game)|
 
 ### My general Backend Django & C# ASP.NET projects
 |Project|
