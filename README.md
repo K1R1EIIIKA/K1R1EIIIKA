@@ -9,13 +9,12 @@ I've been working on the backend in Django for about 5 years and developing game
   
 ----------
 ### My general Unity projects
-#### **itch.io:** https://k1r1eiiika.itch.io/
-| Jams | Solo |
-|-|-|
-|[Snowed In](https://github.com/K1R1EIIIKA/Snowed-In)|[Test Task to Amaya Soft](https://github.com/K1R1EIIIKA/Amaya-TestTask)|
-|[Ratatouille](https://github.com/K1R1EIIIKA/Ratatouille)|[Arcade with Backend & Authorization](https://github.com/K1R1EIIIKA/Tankopocalypse-with-shop)
-|[Chicken Race](https://github.com/K1R1EIIIKA/startgame-2)|[Design Patterns Practice](https://github.com/K1R1EIIIKA/Unity-DesignPatterns)
-|[CyberGuardian](https://github.com/K1R1EIIIKA/start-game-game)|[RPG Visual Novel](https://github.com/K1R1EIIIKA/StartGameFinal)|
+- #### **The Temple of Children:** [link](https://store.steampowered.com/app/2856440/Xram_Detej/)
+- #### **Tangled Rope: Twisted Puzzle:** [link](https://play.google.com/store/apps/details?id=com.tangled.rope)
+- #### **Klondike Solitaire:** [link](https://play.google.com/store/apps/details?id=com.klondike.solitaire.nordkapp)
+| Repository |
+|-|
+|[Test Task to FreewayGames](https://github.com/K1R1EIIIKA/FreewayGames-TestTask)|
 
 ### My general Backend Django & C# ASP.NET projects
 |Project|
