@@ -13,7 +13,7 @@ I've been working on the backend in Django for about 5 years and developing game
 - #### **Tangled Rope: Twisted Puzzle:** [link](https://play.google.com/store/apps/details?id=com.tangled.rope)
 - #### **Klondike Solitaire:** [link](https://play.google.com/store/apps/details?id=com.klondike.solitaire.nordkapp)
 
-| Other projects |
+| My code examples |
 |-|
 |[Test Task to CarX](https://github.com/K1R1EIIIKA/CarX-TestTask)|
 |[Test Task CraftSystem](https://github.com/K1R1EIIIKA/InventoryTestTask)|
